@@ -1,2 +1,5 @@
 # Movimiento-Parabolico
-Consiste en una serie de programas en Python que tienen como objetivo modelar un Movimiento Parabolico 
+
+Bienvenido al Repo de Movimiento parabolico. 
+
+En este encontraras el Codigo necesario en Python para modelar un MOVIMIENTO PARABOLICO IDEAL.
